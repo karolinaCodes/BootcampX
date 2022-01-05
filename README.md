@@ -1,5 +1,5 @@
 # BootcampX
-An application built to learn how to create a database and how to write queries.
+An application built to learn database creation and SQL querying.
 
 ## ERD 
 
